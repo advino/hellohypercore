@@ -1,0 +1,16 @@
+{
+  "name": "hypercore-test-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hypercore": "^9.6.0",
+    "hyperswarm": "^2.15.2",
+    "pump": "^3.0.0"
+  }
+}
